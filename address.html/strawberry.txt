@@ -5,3 +5,8 @@ or
      apt 8124
 
 2903 golden valley road mn
+<<<<<<< HEAD
+3165 Columbia heights
+=======
+3160 pilot knob rd Minneapolis 55411
+>>>>>>> side-menu
